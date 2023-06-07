@@ -1,0 +1,34 @@
+body{
+    background: rgb(191, 188, 197);
+}
+header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}   
+
+section{
+    background: white;
+    border-radius: 10px;
+    text-align: center;
+    width: 500px;
+    padding: 10px;
+    margin: auto;
+    box-shadow: 2px 2px 5px black;
+
+}
+
+
+
+.btn_in{
+    margin-left: 410px;
+    margin-top: 3px;
+}
+select{
+    width: 150px;
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+}
